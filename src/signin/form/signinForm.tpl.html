@@ -1,0 +1,12 @@
+<form ng-submit="vm.signin(user)">
+
+  <h1>Sign In</h1>
+
+  <input type="text" placeholder="Login" ng-model="user.login" />
+  <input type="password" placeholder="Password" ng-model="user.password" />
+  <button type="submit">Enter</button>
+
+  <button type="button" ng-click="vm.signinWith('facebook')">Sign In with Facebook</button>
+  <button type="button" ng-click="vm.signinWith('twitter')">Sign In with Twitter</button>
+
+</form>
