@@ -5,7 +5,7 @@
     "Diego Lameira <diegolameira@me.com>"
   ],
   "description": "Angular Authentication module for Firebase",
-  "main": "dist/ng-auth-firebase.min.js",
+  "main": "",
   "license": "Apache 2.0",
   "ignore": [
     "**/.*",
@@ -13,5 +13,14 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "_release": "aa334fce1f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "develop",
+    "commit": "aa334fce1ff6619af74a9265d7e465f36ae04efa"
+  },
+  "_source": "git@github.com:diegolameira/ng-auth-firebase.git",
+  "_target": "develop",
+  "_originalSource": "git@github.com:diegolameira/ng-auth-firebase.git"
 }
