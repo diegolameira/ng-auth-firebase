@@ -1,0 +1,17 @@
+{
+  "name": "ng-auth-firebase",
+  "homepage": "https://github.com/diegolameira/ng-auth-firebase",
+  "authors": [
+    "Diego Lameira <diegolameira@me.com>"
+  ],
+  "description": "Angular Authentication module for Firebase",
+  "main": "",
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
